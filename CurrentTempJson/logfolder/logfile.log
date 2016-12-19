@@ -1,0 +1,880 @@
+2016-12-18 17:59:48 INFO  Main:28 - 
+1. -- Provjera trenutne temperature za zeljene gradove..
+2. -- Generisanje pdf fajla sa unesenim gradovima i njihovim trenutnim temperaturama..
+3. -- Posaljite e-mail..
+0. -- Izlazak iz programa
+Odaberite jednu od ponudjenih opcija:
+2016-12-18 17:59:53 WARN  Main:47 - Molimo vas unesite broj za ponudjene opcije!
+2016-12-18 18:00:03 WARN  Main:44 - Molimo vas unesite broj za ponudjene opcije!
+2016-12-18 18:00:28 INFO  Main:28 - 
+1. -- Provjera trenutne temperature za zeljene gradove..
+2. -- Generisanje pdf fajla sa unesenim gradovima i njihovim trenutnim temperaturama..
+3. -- Posaljite e-mail..
+0. -- Izlazak iz programa
+Odaberite jednu od ponudjenih opcija:
+2016-12-18 18:27:00 INFO  Main:28 - 
+1. -- Check the current temperature to the desired cities..
+2. -- Generate pdf file with the entered cities and their current temperatures ..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 18:29:39 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 18:29:53 WARN  Main:44 - Molimo vas unesite broj za ponudjene opcije!
+2016-12-18 18:29:56 WARN  Main:47 - Molimo vas unesite broj za ponudjene opcije!
+2016-12-18 20:11:56 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 20:12:01 WARN  Main:47 - Please enter the number of available options!
+2016-12-18 20:12:17 INFO  Main:64 - Exiting the program..
+2016-12-18 20:23:21 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 20:49:40 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 20:49:42 INFO  Main:72 - Loading data from API....
+2016-12-18 20:50:05 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 20:50:35 INFO  Main:109 - Successfully created file..
+2016-12-18 20:50:35 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:21:06 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:21:10 INFO  Main:72 - Loading data from API....
+2016-12-18 21:21:58 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:22:44 INFO  Pdf:110 - Enter the file name:
+2016-12-18 21:22:46 WARN  Pdf:113 - Filename cannot be empty!
+2016-12-18 21:22:46 INFO  Pdf:110 - Enter the file name:
+2016-12-18 21:22:56 WARN  Pdf:117 - A filename cannot contain any of the following characters \ / : * ? " < > |
+2016-12-18 21:22:56 INFO  Pdf:110 - Enter the file name:
+2016-12-18 21:23:22 INFO  Main:109 - Successfully created file..
+2016-12-18 21:23:22 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:24:17 INFO  Main:127 - Email successfully sent!
+2016-12-18 21:24:17 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:51:14 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:51:17 INFO  Main:72 - Loading data from API....
+2016-12-18 21:51:33 ERROR Main:84 - 
+Currently is not possible to establish a connection..Please try again later!!!
+2016-12-18 21:51:33 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:52:56 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:53:01 INFO  Main:72 - Loading data from API....
+2016-12-18 21:53:18 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:53:37 INFO  EmailFunctions:30 - Send to(for multiple entry separate with space):
+2016-12-18 21:56:38 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:56:43 INFO  Main:72 - Loading data from API....
+2016-12-18 21:56:51 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:56:53 INFO  Main:111 - Enter the file name:
+2016-12-18 21:57:49 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 21:57:51 INFO  EmailFunctions:30 - Send to(for multiple entry separate with space):
+2016-12-18 22:04:39 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 22:04:41 INFO  Main:72 - Loading data from API....
+2016-12-18 22:06:17 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 22:06:19 INFO  Main:72 - Loading data from API....
+2016-12-18 22:06:19 ERROR Pdf:38 - Unable to load properties file!
+2016-12-18 22:09:54 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 22:09:58 INFO  Main:72 - Loading data from API....
+2016-12-18 22:10:16 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 22:10:42 INFO  Pdf:110 - Enter the file name:
+2016-12-18 22:10:43 WARN  Pdf:113 - Filename cannot be empty!
+2016-12-18 22:10:43 INFO  Pdf:110 - Enter the file name:
+2016-12-18 22:10:48 INFO  Main:109 - Successfully created file..
+2016-12-18 22:10:48 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 22:10:55 INFO  EmailFunctions:30 - Send to(for multiple entry separate with space):
+2016-12-18 22:13:02 INFO  Main:127 - Email successfully sent!
+2016-12-18 22:13:02 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-18 22:14:16 INFO  Main:64 - Exiting the program..
+2016-12-19 00:02:23 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:02:27 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:02:44 INFO  EmailFunctions:44 - Please enter a subject
+2016-12-19 00:02:56 INFO  EmailFunctions:52 - Please enter the message
+2016-12-19 00:03:00 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:03:18 INFO  EmailFunctions:68 - 2. 
+2016-12-19 00:03:29 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:03:29 ERROR Main:133 - An error occurred while sending e-mail!!Please try again!!
+2016-12-19 00:03:29 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:05:26 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:05:28 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:05:40 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:05:46 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:05:51 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:05:51 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:10:24 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:10:26 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:10:39 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:10:42 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:10:43 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:10:43 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:10:47 INFO  EmailFunctions:68 - 2. 
+2016-12-19 00:10:49 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:10:49 ERROR Main:133 - An error occurred while sending e-mail!!Please try again!!
+2016-12-19 00:10:49 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:13:45 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:14:26 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:14:48 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:15:00 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:15:03 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:15:03 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:15:11 INFO  EmailFunctions:68 - 2. 
+2016-12-19 00:15:17 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:17:48 ERROR Main:133 - An error occurred while sending e-mail!!Please try again!!
+2016-12-19 00:28:39 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:28:42 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:28:51 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:28:54 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:28:55 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:28:55 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:29:11 INFO  EmailFunctions:68 - 2. 
+2016-12-19 00:29:18 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:29:21 INFO  Main:127 - Email successfully sent!
+2016-12-19 00:29:21 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:30:42 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:30:44 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:30:57 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:30:59 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:31:04 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:31:04 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:31:43 INFO  EmailFunctions:68 - 2. 
+2016-12-19 00:31:49 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:31:50 WARN  Main:131 - Name of attachment file is not correct!!Please try again!!
+2016-12-19 00:31:50 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:32:10 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:32:33 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:32:34 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:32:35 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:32:35 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:32:39 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:32:40 WARN  Main:131 - Name of attachment file is not correct!!Please try again!!
+2016-12-19 00:32:40 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:33:24 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:33:39 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:33:54 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:34:04 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:34:07 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:34:07 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:34:15 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:37:02 WARN  Main:131 - Name of attachment file is not correct!!Please try again!!
+2016-12-19 00:37:05 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:37:21 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:39:32 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:39:35 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:39:46 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:39:48 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:39:50 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:39:50 INFO  EmailFunctions:68 - 1. 
+2016-12-19 00:39:54 INFO  EmailFunctions:68 - 2. 
+2016-12-19 00:39:55 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 00:39:57 INFO  Main:127 - Email successfully sent!
+2016-12-19 00:39:57 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:44:11 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:44:15 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:44:26 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:44:31 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:44:33 INFO  EmailFunctions:60 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:44:44 INFO  EmailFunctions:68 - 1. xx
+2016-12-19 00:45:18 INFO  EmailFunctions:68 - 2. 5
+2016-12-19 00:45:22 INFO  EmailFunctions:68 - 3. 0
+2016-12-19 00:45:22 INFO  EmailFunctions:70 - Sending e-mail!!
+2016-12-19 00:45:24 INFO  Main:127 - Email successfully sent!
+2016-12-19 00:45:24 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:51:28 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:51:55 INFO  EmailFunctions:33 - Send to(for multiple entry separate with space):[Ljava.lang.String;@5e9f23b4
+2016-12-19 00:52:36 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:52:40 INFO  EmailFunctions:33 - Send to(for multiple entry separate with space):[Ljava.lang.String;@5e9f23b4
+2016-12-19 00:52:42 INFO  EmailFunctions:44 - Please enter a subject:
+2016-12-19 00:52:42 INFO  EmailFunctions:52 - Please enter the message:
+2016-12-19 00:52:42 INFO  EmailFunctions:59 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 00:58:50 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 00:58:52 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 00:59:34 INFO  EmailFunctions:37 - 0. darko_ki@hotmail.com
+2016-12-19 00:59:34 INFO  EmailFunctions:37 - 1. stana.kitic@gmail.com
+2016-12-19 00:59:34 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 01:00:12 INFO  EmailFunctions:47 - ovo je subject
+2016-12-19 01:00:12 INFO  EmailFunctions:53 - Please enter the message:
+2016-12-19 01:00:33 INFO  EmailFunctions:55 - msggggg
+2016-12-19 01:00:33 INFO  EmailFunctions:61 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 01:00:43 INFO  EmailFunctions:69 - 1. xx
+2016-12-19 01:00:43 INFO  EmailFunctions:75 - 1. xx
+2016-12-19 01:02:53 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:02:54 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 01:03:16 INFO  EmailFunctions:37 - 1. stana.kitic@gmail.com
+2016-12-19 01:03:16 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 01:04:25 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:04:27 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 01:04:57 INFO  EmailFunctions:37 - 1. darko_ki@hotmail.com
+2016-12-19 01:04:57 INFO  EmailFunctions:37 - 2. stana.kitic@gmail.com
+2016-12-19 01:04:57 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 01:05:10 INFO  EmailFunctions:47 - subjectttttttt
+2016-12-19 01:05:10 INFO  EmailFunctions:53 - Please enter the message:
+2016-12-19 01:05:18 INFO  EmailFunctions:55 - mesgggggggggg
+2016-12-19 01:05:18 INFO  EmailFunctions:61 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 01:05:28 INFO  EmailFunctions:69 - 1. xx
+2016-12-19 01:05:31 INFO  EmailFunctions:69 - 2. 5
+2016-12-19 01:05:33 INFO  EmailFunctions:69 - 3. 0
+2016-12-19 01:05:33 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 01:05:36 INFO  Main:127 - Email successfully sent!
+2016-12-19 01:05:36 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:20:21 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:20:23 INFO  Main:72 - Loading data from API....
+2016-12-19 01:20:52 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:24:13 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:24:15 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:24:42 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:24:44 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:29:22 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:29:24 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:29:39 ERROR Main:88 - An error has occurred..Please try again!!!
+2016-12-19 01:29:39 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:30:33 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:30:35 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:31:00 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:44:45 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:44:47 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:44:51 INFO  CityAndTempFunctions:53 - Show all cities for which you can check current temperature:
+2016-12-19 01:44:51 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 01:44:51 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 01:46:03 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:46:08 INFO  Main:62 - Exiting the program..
+2016-12-19 01:53:25 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:53:27 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:53:33 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:53:38 WARN  Main:42 - Please enter the number of available options!
+2016-12-19 01:53:45 WARN  Main:45 - Please enter the number of available options!
+2016-12-19 01:53:49 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:53:52 INFO  CityAndTempFunctions:53 - Show all cities for which you can check current temperature:
+2016-12-19 01:53:52 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 01:53:52 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 01:54:27 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 01:54:34 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 01:54:39 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 01:54:43 INFO  CityAndTempFunctions:69 - Chosen number of input: 2
+2016-12-19 01:54:43 INFO  CityAndTempFunctions:76 - Enter the cities from the list
+2016-12-19 01:55:04 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:58:30 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 01:58:34 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 01:58:42 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 01:58:42 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 01:58:42 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 01:58:47 INFO  CityAndTempFunctions:69 - Chosen number of input: 2
+2016-12-19 01:58:47 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:17:47 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:17:51 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 02:17:54 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:17:54 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:17:54 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:18:15 INFO  CityAndTempFunctions:69 - Chosen number of input: 3
+2016-12-19 02:18:15 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:18:29 INFO  CityAndTempFunctions:94 - 1.teslic
+2016-12-19 02:18:45 INFO  CityAndTempFunctions:94 - 2.novi sad
+2016-12-19 02:19:06 INFO  CityAndTempFunctions:94 - 3.ss
+2016-12-19 02:19:06 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:19:37 WARN  Main:45 - Please enter the number of available options!
+2016-12-19 02:19:40 WARN  Main:42 - Please enter the number of available options!
+2016-12-19 02:19:43 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 02:19:45 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:19:45 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:19:45 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:19:50 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 02:19:58 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 02:20:02 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 02:20:04 INFO  CityAndTempFunctions:69 - Chosen number of input: 1
+2016-12-19 02:20:04 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:20:09 INFO  CityAndTempFunctions:94 - 1.teslic
+2016-12-19 02:20:09 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:23:58 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:24:02 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 02:24:05 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:24:05 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:24:05 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:24:08 INFO  CityAndTempFunctions:69 - Chosen number of input: 3
+2016-12-19 02:24:08 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:24:08 INFO  CityAndTempFunctions:94 - 1.
+2016-12-19 02:24:23 INFO  CityAndTempFunctions:94 - 2.teslic
+2016-12-19 02:38:10 INFO  Main:28 - 
+1. -- Check the current temperature of the desired cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:38:12 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 02:38:17 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:38:17 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:38:17 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:40:30 INFO  Main:28 - 
+1. -- Check the current temperature of the wanted cities..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:45:44 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:45:53 INFO  CityAndTempFunctions:24 - Loading data from API....
+2016-12-19 02:45:55 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:45:55 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:45:55 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:47:57 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:48:00 INFO  CityAndTempFunctions:24 - Loading data from API....
+
+2016-12-19 02:48:02 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:48:02 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:48:02 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:48:15 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 02:48:21 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 02:48:25 INFO  CityAndTempFunctions:69 - Chosen number of input: 2
+2016-12-19 02:48:25 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:48:35 INFO  CityAndTempFunctions:94 - 1.teslic
+2016-12-19 02:48:43 INFO  CityAndTempFunctions:94 - 2.banja luka
+2016-12-19 02:48:43 INFO  CityAndTempFunctions:125 - 
+Overview of entered cities and temperatures..
+
+2016-12-19 02:48:43 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:51:36 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:51:42 INFO  CityAndTempFunctions:24 - Loading data from API....
+
+2016-12-19 02:51:45 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:51:45 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:51:45 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:51:52 INFO  CityAndTempFunctions:69 - Chosen number of input: 3
+2016-12-19 02:51:52 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:51:56 INFO  CityAndTempFunctions:94 - 1.teslic
+2016-12-19 02:52:01 INFO  CityAndTempFunctions:94 - 2.banja luka
+2016-12-19 02:52:07 INFO  CityAndTempFunctions:94 - 3.kiev
+2016-12-19 02:52:07 INFO  CityAndTempFunctions:125 - Overview of entered cities and temperatures..
+2016-12-19 02:52:07 INFO  CityAndTempFunctions:127 - Teslic: Temperatura: -9.54 Min temperatura: -9.541 Max temperatura: -9.541 Pressure: 966.79
+2016-12-19 02:52:07 INFO  CityAndTempFunctions:127 - Banja Luka: Temperatura: -6.79 Min temperatura: -6.791 Max temperatura: -6.791 Pressure: 1022.72
+2016-12-19 02:52:07 INFO  CityAndTempFunctions:127 - Kiev: Temperatura: -4.47 Min temperatura: -5 Max temperatura: -4 Pressure: 1027
+2016-12-19 02:52:07 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:54:54 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:54:58 INFO  CityAndTempFunctions:24 - Loading data from API....
+
+2016-12-19 02:55:01 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:55:01 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:55:01 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:55:06 INFO  CityAndTempFunctions:69 - Chosen number of input: 3
+2016-12-19 02:55:06 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+2016-12-19 02:55:10 INFO  CityAndTempFunctions:94 - 1.teslic
+
+2016-12-19 02:55:15 INFO  CityAndTempFunctions:94 - 2.novi sad
+
+2016-12-19 02:55:28 INFO  CityAndTempFunctions:94 - 3.banja luka
+
+2016-12-19 02:55:28 INFO  CityAndTempFunctions:125 - Overview of entered cities and temperatures:
+2016-12-19 02:55:28 INFO  CityAndTempFunctions:127 - Teslic: Temperatura: -9.54 Min temperatura: -9.541 Max temperatura: -9.541 Pressure: 966.79
+2016-12-19 02:55:28 INFO  CityAndTempFunctions:127 - Novi Sad: Temperatura: -4 Min temperatura: -4 Max temperatura: -4 Pressure: 1035
+2016-12-19 02:55:28 INFO  CityAndTempFunctions:127 - Banja Luka: Temperatura: -6.79 Min temperatura: -6.791 Max temperatura: -6.791 Pressure: 1022.72
+2016-12-19 02:55:28 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:57:59 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 02:58:02 INFO  CityAndTempFunctions:24 - Loading data from API....
+
+2016-12-19 02:58:04 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 02:58:04 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 02:58:04 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 02:58:06 INFO  CityAndTempFunctions:69 - Chosen number of input: 3
+2016-12-19 02:58:06 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+
+2016-12-19 02:58:10 INFO  CityAndTempFunctions:94 - 1.teslic
+
+2016-12-19 02:58:25 INFO  CityAndTempFunctions:94 - 2.banja luka
+
+2016-12-19 02:58:33 INFO  CityAndTempFunctions:94 - 3.kiev
+
+2016-12-19 02:58:33 INFO  CityAndTempFunctions:125 - Overview of entered cities and temperatures:
+
+2016-12-19 02:58:33 INFO  CityAndTempFunctions:127 - Teslic: Temperatura: -9.54 Min temperatura: -9.541 Max temperatura: -9.541 Pressure: 966.79
+2016-12-19 02:58:33 INFO  CityAndTempFunctions:127 - Banja Luka: Temperatura: -6.79 Min temperatura: -6.791 Max temperatura: -6.791 Pressure: 1022.72
+2016-12-19 02:58:33 INFO  CityAndTempFunctions:127 - Kiev: Temperatura: -4 Min temperatura: -4 Max temperatura: -4 Pressure: 1027
+2016-12-19 02:58:33 INFO  Main:28 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:00:43 INFO  Main:29 - 1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:01:24 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:01:32 INFO  CityAndTempFunctions:24 - Loading data from API....
+
+2016-12-19 03:01:36 INFO  CityAndTempFunctions:53 - All cities for which you can check current temperature:
+2016-12-19 03:01:36 INFO  CityAndTempFunctions:58 - [Teslic, Banja Luka, Bijeljina, Uzice, Novi Sad, Moscow, Kiev, London, Saint Petersburg, Malino, Montevideo, Vancouver, Madrid, Barcelona, Verona, Zaragoza]
+2016-12-19 03:01:36 INFO  CityAndTempFunctions:63 - For how many cities you want to view the current temperature(Enter the number):
+2016-12-19 03:01:43 WARN  CityAndTempFunctions:72 - Please enter the integer number!
+2016-12-19 03:01:45 INFO  CityAndTempFunctions:69 - Chosen number of input: 3
+2016-12-19 03:01:45 INFO  CityAndTempFunctions:76 - Enter the cities from the list:
+
+2016-12-19 03:01:50 INFO  CityAndTempFunctions:94 - 1.teslic
+
+2016-12-19 03:01:55 INFO  CityAndTempFunctions:94 - 2.novi sad
+
+2016-12-19 03:02:00 INFO  CityAndTempFunctions:94 - 3.kiev
+
+2016-12-19 03:02:00 INFO  CityAndTempFunctions:125 - Overview of entered cities and temperatures:
+
+2016-12-19 03:02:00 INFO  CityAndTempFunctions:127 - Teslic: Temperatura: -9.54 Min temperatura: -9.541 Max temperatura: -9.541 Pressure: 966.79
+2016-12-19 03:02:00 INFO  CityAndTempFunctions:127 - Novi Sad: Temperatura: -4 Min temperatura: -4 Max temperatura: -4 Pressure: 1035
+2016-12-19 03:02:00 INFO  CityAndTempFunctions:127 - Kiev: Temperatura: -4 Min temperatura: -4 Max temperatura: -4 Pressure: 1027
+2016-12-19 03:02:00 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:03:54 INFO  Pdf:110 - Enter the file name:
+2016-12-19 03:03:55 WARN  Pdf:113 - Filename cannot be empty!
+2016-12-19 03:03:55 INFO  Pdf:110 - Enter the file name:
+2016-12-19 03:04:01 WARN  Pdf:117 - A filename cannot contain any of the following characters \ / : * ? " < > |
+2016-12-19 03:04:01 INFO  Pdf:110 - Enter the file name:
+2016-12-19 03:04:13 INFO  Main:109 - Successfully created file..
+2016-12-19 03:04:13 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:04:22 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 03:04:53 INFO  EmailFunctions:37 - 1. darko_ki@hotmail.com
+2016-12-19 03:04:53 INFO  EmailFunctions:37 - 2. stana.kitic@gmail.com
+2016-12-19 03:04:53 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 03:06:24 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:06:32 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 03:06:56 INFO  EmailFunctions:37 - 1. darko_ki@hotmail.com
+
+2016-12-19 03:06:56 INFO  EmailFunctions:37 - 2. stana.kitic@gmail.com
+
+2016-12-19 03:06:56 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 03:07:07 INFO  EmailFunctions:47 - subjecttt
+2016-12-19 03:07:07 INFO  EmailFunctions:53 - Please enter the message:
+2016-12-19 03:08:37 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:08:42 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 03:09:02 INFO  EmailFunctions:37 - 1. darko_ki@hotmail.com
+
+2016-12-19 03:09:02 INFO  EmailFunctions:37 - 2. stana.kitic@gmail.com
+
+2016-12-19 03:09:02 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 03:09:43 INFO  EmailFunctions:47 - subjectttt
+
+2016-12-19 03:09:43 INFO  EmailFunctions:53 - Please enter the message:
+2016-12-19 03:09:52 INFO  EmailFunctions:55 - msgggggg gggggg
+
+2016-12-19 03:09:52 INFO  EmailFunctions:61 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 03:09:59 INFO  EmailFunctions:69 - 1. xx
+2016-12-19 03:10:01 INFO  EmailFunctions:69 - 2. 5
+2016-12-19 03:10:06 INFO  EmailFunctions:69 - 3. 0
+2016-12-19 03:10:06 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 03:10:09 INFO  Main:127 - Email successfully sent!
+2016-12-19 03:10:09 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:11:21 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 03:11:28 INFO  EmailFunctions:37 - 1. dd
+
+2016-12-19 03:11:28 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 03:11:31 INFO  EmailFunctions:47 - dd
+
+2016-12-19 03:11:31 INFO  EmailFunctions:53 - Please enter the message:
+2016-12-19 03:11:32 INFO  EmailFunctions:55 - dd
+
+2016-12-19 03:11:32 INFO  EmailFunctions:61 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 03:11:34 INFO  EmailFunctions:69 - 1. 0
+2016-12-19 03:11:34 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 03:11:35 WARN  Main:129 - E-mail address is incorrect!!Please try again!!
+2016-12-19 03:11:35 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
+2016-12-19 03:11:55 WARN  Main:48 - Please enter the number of available options!
+2016-12-19 03:12:18 INFO  EmailFunctions:31 - Send to(for multiple entry separate with space):
+2016-12-19 03:12:31 INFO  EmailFunctions:37 - 1. darko_ki@hotmail.com
+
+2016-12-19 03:12:31 INFO  EmailFunctions:45 - Please enter a subject:
+2016-12-19 03:12:33 INFO  EmailFunctions:47 - 
+
+2016-12-19 03:12:33 INFO  EmailFunctions:53 - Please enter the message:
+2016-12-19 03:12:33 INFO  EmailFunctions:55 - 
+
+2016-12-19 03:12:33 INFO  EmailFunctions:61 - Enter generated files..(Press 0 to send e-mail):
+2016-12-19 03:12:41 INFO  EmailFunctions:69 - 1. 0
+2016-12-19 03:12:41 INFO  EmailFunctions:71 - Sending e-mail!!
+2016-12-19 03:12:43 INFO  Main:127 - Email successfully sent!
+2016-12-19 03:12:43 INFO  Main:29 - 
+1. -- Check the current temperature..
+2. -- Generate the pdf file with the entered cities and their current temperatures..
+3. -- Send e-mail..
+0. -- Exit.. 
+Select one of the available options:
